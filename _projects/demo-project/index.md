@@ -6,7 +6,7 @@ skills:
   - ROS(Melodic)
   - Python
 
-main-image: /project2.jpg
+main-image: /limo.png
 ---
 
 ---
