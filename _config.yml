@@ -67,7 +67,7 @@ skills:
     - C
     - C++
     - Python
-    -ROS 1
+    - ROS 1
   - category: Design Standards / Practices
     tools:
     - Systems Approach
