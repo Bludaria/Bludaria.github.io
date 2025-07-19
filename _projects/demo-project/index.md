@@ -28,7 +28,7 @@ This design emulates a semi-structured, real-world indoor environment, with deli
 ## 3D Model to Physical Arena Design
 {% include image-gallery.html images="3d_actualise.png" height="400" %}
 
-To support the physical planning and spatial validation of the robot navigation testbed, the preliminary 2D sketch was translated into a 3D model using SolidWorks.
+<br>To support the physical planning and spatial validation of the robot navigation testbed, the preliminary 2D sketch was translated into a 3D model using SolidWorks.
 
 The final physical arena was constructed based on the initial conceptual layout and CAD visualization. It replicates a scaled-down version of a structured indoor environment of Terminal 1. Walls and setpieces like the Kinetic Rain and escalator 
   - **Enclosed Room & Escalator Zone** <br>
@@ -37,6 +37,12 @@ The final physical arena was constructed based on the initial conceptual layout 
   - **Pathways and Boundaries** <br>
     White boundaries help with LiDAR and depth sensor feedback, ensuring robust obstacle detection. 
 <br>
+
+---
+# Mapping And Navigation
+---
+
+## Rtab Mapping 
 
 ## Changi Terminal 1 Kinetic Rain
 <br>
