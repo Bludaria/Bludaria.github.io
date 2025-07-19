@@ -31,12 +31,10 @@ This design emulates a semi-structured, real-world indoor environment, with deli
 To support the physical planning and spatial validation of the robot navigation testbed, the preliminary 2D sketch was translated into a 3D model using SolidWorks.
 
 The final physical arena was constructed based on the initial conceptual layout and CAD visualization. It replicates a scaled-down version of a structured indoor environment of Terminal 1. Walls and setpieces like the Kinetic Rain and escalator 
-  - **Enclosed Room & Escalator Zone**
-<br>
+  - **Enclosed Room & Escalator Zone** <br>
     Simulates interactive or dynamic zones such as baggage screening or waiting lounges.
 
-  - **Pathways and Boundaries**
-<br>
+  - **Pathways and Boundaries** <br>
     White boundaries help with LiDAR and depth sensor feedback, ensuring robust obstacle detection. 
 <br>
 
