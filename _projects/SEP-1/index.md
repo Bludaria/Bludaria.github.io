@@ -1,9 +1,9 @@
 ---
 layout: post
-title: project title
-description:  short description of the project
+title: System Engineering Project 1
+description:  Autonomous Navigation with Limo Robot
 skills: 
-- skill 1
-- skill 2
+- ROS(Melodic)
+- Python
 main-image: limo_robot.jpg
 ---
