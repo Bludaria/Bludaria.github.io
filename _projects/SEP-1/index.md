@@ -5,5 +5,5 @@ description:  Autonomous Navigation with Limo Robot
 skills: 
 - ROS(Melodic)
 - Python
-main-image: limo_robot.jpg
+main-image: /_projects/SEP-1/limo_robot.jpg
 ---
