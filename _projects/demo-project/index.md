@@ -1,7 +1,7 @@
 ---
 layout: post
 title: System Engineering Project 1
-description:  Autonomous Navigation with LIMO Robot. Developed real-time SLAM maps with RTAB-Map, implemented waypoint-based navigation, and designed a custom testing arena for evaluating path planning and obstacle avoidance. 
+description: Autonomous Navigation with LIMO Robot. Developed real-time SLAM maps with RTAB-Map, implemented waypoint-based navigation, and designed a custom testing arena for evaluating path planning and obstacle avoidance. 
 skills: 
   - ROS(Melodic)
   - Python
@@ -14,8 +14,12 @@ main-image: /limo.png
 ---
 
 ## Changi Airport Terminal 1/Preliminary Arena Design
-{% include image-gallery.html images="t1_reference.png" height="400" %}
-{% include image-gallery.html images="preliminary_arena_design.png" height="400" %}
+<br>
+<div style="display: flex; gap: 10px;">
+  <img src="/assets/images/t1_reference.png" alt="T1 Reference" style="height: 400px;"/>
+  <img src="/assets/images/preliminary_arena_design.png" alt="Arena Design" style="height: 400px;"/>
+</div>
+<br>
 
 The layout of the arena was inspired by the departure hall of Changi Airport Terminal 1, particularly the area surrounding the FAST check-in zone and boarding access gates. This environment was selected as a reference due to its structured flow, open layout, and realistic operational constraints.
 
