@@ -5,5 +5,5 @@ description: Autonomous navigation with ROS 1 (Melodic)
 skills: 
 - ROS
 - Python
-main-image: /Limo robot.jpeg 
+main-image: Limo robot.jpeg 
 ---
