@@ -16,8 +16,8 @@ main-image: /limo.png
 ## Changi Airport Terminal 1/Preliminary Arena Design
 <br>
 <div style="display: flex; gap: 10px;">
-  <img src="/assets/images/t1_reference.png" alt="T1 Reference" style="height: 400px;"/>
-  <img src="/assets/images/preliminary_arena_design.png" alt="Arena Design" style="height: 400px;"/>
+  <img src="t1_reference.png" alt="T1 Reference" style="height: 400px;"/>
+  <img src="preliminary_arena_design.png" alt="Arena Design" style="height: 400px;"/>
 </div>
 <br>
 
