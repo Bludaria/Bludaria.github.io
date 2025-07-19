@@ -15,7 +15,7 @@ main-image: /limo.png
 
 ## Changi Airport Terminal 1/Preliminary Arena Design
 <br>
-{% include image-gallery.html images="t1_reference.png" height="400" %
+{% include image-gallery.html images="t1_comparison.png" height="400" %}
 <br>
 
 The layout of the arena was inspired by the departure hall of Changi Airport Terminal 1, particularly the area surrounding the FAST check-in zone and boarding access gates. This environment was selected as a reference due to its structured flow, open layout, and realistic operational constraints.
