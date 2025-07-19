@@ -13,12 +13,19 @@ title: Amos Teo's Portfolio # This is what shows up in the tab of the browser
 
 # Hero Section
 name: Amos Teo Yee Cheng
-headline: Building Smart Navigation Systems with LIMO & RTAB-Map
+headline: Undergraduate Engineer
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  Robotics Systems Engineering student experienced in ROS 1-based autonomous navigation using the LIMO robot. 
-  Developed real-time SLAM maps with RTAB-Map, implemented waypoint-based navigation, and designed a custom 
-  testing arena for evaluating path planning and obstacle avoidance. Passionate about integrating perception, 
-  localization, and control in mobile robotics systems.
+  Hey there! I am Amos, a robotics enthusiast currently studying for my Bachelor of Engineering (Honours) in Robotics Systems Engineering. 
+  I’ve always been fascinated by how machines move, think, and interact with the world — and that curiosity led me to explore the world of robotics and automation.
+
+  Along the way, I have picked up skills in
+  - ROS (Robot Operating System)
+  - Programming in C/C++ and Python
+  - Embedded systems development (especially STM32 & UART communication)
+  - 3D modeling with SolidWorks
+  - System integration, testing, and debugging
+
+  I love building things that move with purpose — whether it is a robot navigating through an obstacle course or a smart system solving real problems. 
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/linkedin_Profile_Pic.jpeg
