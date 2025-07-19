@@ -10,9 +10,26 @@ main-image: /limo.png
 ---
 
 ---
+# Changi Airport Terminal 1
+{% include image-gallery.html images="t1_reference.png" height="400" %}
+
+The layout of the arena was inspired by the departure hall of Changi Airport Terminal 1, particularly the area surrounding the FAST check-in zone and boarding access gates. This environment was selected as a reference due to its structured flow, open layout, and realistic operational constraints
+
+This design emulates a semi-structured, real-world indoor environment, which provides the ideal conditions for testing:
+  - Waypoint navigation,
+  - Real-time SLAM (via RTAB-Map),
+  - Path planning in dynamic obstacle scenarios.
+
 # Preliminary Arena Design 
 {% include image-gallery.html images="preliminary_arena_design.png" height="400" %}
-This arena was designed as a controlled environment to test autonomous navigation capabilities using the LIMO robot with ROS and RTAB-Map. The layout simulates a structured indoor space resembling a small terminal or commercial area, with deliberate inclusion of tight paths, sensory triggers, and human-like flows.
+
+This arena was designed as a controlled environment to test autonomous navigation capabilities using the LIMO robot with ROS and RTAB-Map. The layout simulates a structured indoor space resembling a departure hall of Changi Airport Terminal 1, with deliberate inclusion of tight paths, sensory triggers and blind spots.
+
+# Arena Design Visualized with 3D Modeling
+{% include image-gallery.html images="solidwork_arena.png" height="400" %}
+
+To support the physical planning and spatial validation of the robot navigation testbed, the preliminary 2D sketch was translated into a 3D model using SolidWorks.
+
 
 ## Header 2  
 Use this for the header of each section
