@@ -13,11 +13,12 @@ title: Amos Teo's Portfolio # This is what shows up in the tab of the browser
 
 # Hero Section
 name: Amos Teo Yee Cheng
-headline: headline message
+headline: Building Smart Navigation Systems with LIMO & RTAB-Map
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  Write an awesome intro and discuss your highlights and qualification. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Robotics Systems Engineering student experienced in ROS 1-based autonomous navigation using the LIMO robot. 
+  Developed real-time SLAM maps with RTAB-Map, implemented waypoint-based navigation, and designed a custom 
+  testing arena for evaluating path planning and obstacle avoidance. Passionate about integrating perception, 
+  localization, and control in mobile robotics systems.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/linkedin_Profile_Pic.jpeg
