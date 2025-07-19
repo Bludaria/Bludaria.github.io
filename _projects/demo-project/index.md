@@ -20,10 +20,11 @@ main-image: /limo.png
 
 The layout of the arena was inspired by the departure hall of Changi Airport Terminal 1, particularly the area surrounding the FAST check-in zone and boarding access gates. This environment was selected as a reference due to its structured flow, open layout, and realistic operational constraints.
 
-This design emulates a semi-structured, real-world indoor environment, with deliberate inclusion of tight paths, sensory triggers and blind spots. which provides the ideal conditions for testing:
-  - Waypoint navigation,
-  - Real-time SLAM (via RTAB-Map),
-  - Path planning in dynamic obstacle scenarios.
+This design emulates a semi-structured, real-world indoor environment, with deliberate inclusion of tight paths, sensory triggers and blind spots. which provides the ideal conditions for testing
+
+ - Waypoint Navigation,
+ - Real-time SLAM(via RTAB-Map),
+ - Path planning in dynamic obstacle scenarios.
 
 ## 3D Model to Physical Arena Design
 {% include image-gallery.html images="3d_actualise.png" height="400" %}
