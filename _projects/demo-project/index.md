@@ -1,7 +1,7 @@
 ---
 layout: post
 title: System Engineering Project 1
-description:  Autonomous Navigation with Limo Robot
+description:  Autonomous Navigation with LIMO Robot. Developed real-time SLAM maps with RTAB-Map, implemented waypoint-based navigation, and designed a custom testing arena for evaluating path planning and obstacle avoidance. 
 skills: 
   - ROS(Melodic)
   - Python
@@ -10,8 +10,10 @@ main-image: /limo.png
 ---
 
 ---
-# Header 1 
-Used for the title (already generated automatically at the top)
+# Preliminary Arena Design 
+{% include image-gallery.html images="preliminary_arena_design.png" height="400" %}
+This arena was designed as a controlled environment to test autonomous navigation capabilities using the LIMO robot with ROS and RTAB-Map. The layout simulates a structured indoor space resembling a small terminal or commercial area, with deliberate inclusion of tight paths, sensory triggers, and human-like flows.
+
 ## Header 2  
 Use this for the header of each section
 ### Header 3 
