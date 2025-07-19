@@ -84,13 +84,13 @@ formspree-key:  https://formspree.io/f/mldlgrll # https://formspree.io/f/{8-digi
 
 
 # Active theme (Updatethis to switch themes). Make sure to keep the indentation the samne.
-colors: # this is the basic theme
-  text: "#D95D39"
-  border: "#f7f3e3"
-  link: "#ffc94d"
-  highlight: "#ffb800"
-  background: "#FFD1BA"
-  light_background: "#fff9e6"
+colors:
+  text: "#1F3C88"             # Deep blue for main text
+  border: "#A3C4F3"           # Light border tone
+  link: "#0077B6"             # Strong blue for links
+  highlight: "#00B4D8"        # Bright cyan for emphasis
+  background: "#E0F7FA"       # Very light blue (almost white)
+  light_background: "#F0FBFF" # Slightly tinted white for cards/sections
 
 # A few examples. 
 basic theme:
