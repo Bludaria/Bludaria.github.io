@@ -27,7 +27,7 @@ This design emulates a semi-structured, real-world indoor environment, with deli
  - Path planning in dynamic obstacle scenarios.
 
 ## 3D Model to Physical Arena Design
-{% include image-gallery.html images="3d_actualise.png" height="400" %}
+{% include image-gallery.html images="3d_to_physical.png" height="400" %}
 
 <br>To support the physical planning and spatial validation of the robot navigation testbed, the preliminary 2D sketch was translated into a 3D model using SolidWorks.
 
