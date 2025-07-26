@@ -43,13 +43,17 @@ The final physical arena was constructed based on the initial conceptual layout 
 # Mapping And Navigation
 ---
 ## Full Arena Overview
-{% include image-gallery.html images="full_arena.png" height="400" %}
+{% include image-gallery.html images="full_arena_plot.png" height="400" %}
 <br>
-This is the full arena that includes 7 other plots made by other teams. 
+This is the full arena that includes 7 other plots made by other teams. Each plot is 1500 mm by 1300 mm. Mapping the full arena will produce a 4500 mm by 3900 mm map.
 <br>
 ---
 ## Rtab Mapping 
-
+{% include image-gallery.html images="complete_map_with_inflation.png" height="400" %}
+<br>
+The map on the left is the 2D map done by LiDar sensor using RTab-Map displayed on Rviz. The top right corner is plot 1 which belongs to my team. <br>
+The map on the right shows the inflation zone or buffer zone for the obstacles. This information is crucial to avoid hitting obstacle that are shaped unevenly.
+<br>
 ---
 ## Live Demo of LIMO Robot Autonomous Navigation
 <br>
