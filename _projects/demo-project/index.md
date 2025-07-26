@@ -46,6 +46,10 @@ The final physical arena was constructed based on the initial conceptual layout 
 ## Rtab Mapping 
 
 ---
+## Live Demo of LIMO Robot Autonomous Navigation
+<br>
+{% include youtube-video.html id="j3m7Y_IHGFs" autoplay= "true"%} 
+<br>
 
 ## Changi Terminal 1 Kinetic Rain
 <br>
