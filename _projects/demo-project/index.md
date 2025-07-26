@@ -42,7 +42,12 @@ The final physical arena was constructed based on the initial conceptual layout 
 ---
 # Mapping And Navigation
 ---
-
+## Full Arena Overview
+{% include image-gallery.html images="full_arena.png" height="400" %}
+<br>
+This is the full arena that includes 7 other plots made by other teams. 
+<br>
+---
 ## Rtab Mapping 
 
 ---
@@ -50,7 +55,7 @@ The final physical arena was constructed based on the initial conceptual layout 
 <br>
 {% include youtube-video.html id="j3m7Y_IHGFs" autoplay= "true"%} 
 <br>
-
+---
 ## Changi Terminal 1 Kinetic Rain
 <br>
 {% include youtube-video.html id="NXuQnDeIyY8" autoplay= "false"%} 
