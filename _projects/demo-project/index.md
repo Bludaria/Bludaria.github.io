@@ -13,13 +13,28 @@ main-image: /limo.png
 ---
 For source code and program details, visit [Team 7 SEP GitHub Repo](https://github.com/pokohroh/ros-portfolio).
 <br>
+
+---
+# LIMO Overview
+---
+{% include image-gallery.html images="t1_comparison.png" height="400" %}
+<br>
+
+LIMO is an advanced multi-modal mobile robot platform developed by AgileX Robotics. It is designed for robotics education, research, and autonomous navigation projects.
+<br>
+The robot features:
+- A modular chassis with four-wheel differential drive.
+- Multiple sensor integration including LiDAR, depth camera, IMU, and wheel encoders.
+- Support for autonomous navigation with ROS 1 and ROS 2.
+- Compact design suitable for indoor environments and testing arenas.
+<br>
 ---
 # Arena Design Overview
 ---
 
 ## Changi Airport Terminal 1/Preliminary Arena Design
 <br>
-{% include image-gallery.html images="t1_comparison.png" height="400" %}
+{% include image-gallery.html images="limo_robot.png" height="400" %}
 <br>
 
 The layout of the arena was inspired by the departure hall of Changi Airport Terminal 1, particularly the area surrounding the FAST check-in zone and boarding access gates. This environment was selected as a reference due to its structured flow, open layout, and realistic operational constraints.
