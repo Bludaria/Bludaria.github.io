@@ -12,7 +12,7 @@ main-image: /limo.png
 ---
 ---
 For source code and program details, visit [Team 7 SEP GitHub Repo](https://github.com/pokohroh/ros-portfolio).
----
+<br>
 ---
 # Arena Design Overview
 ---
