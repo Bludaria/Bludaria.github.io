@@ -17,7 +17,7 @@ For source code and program details, visit [Team 7 SEP GitHub Repo](https://gith
 ---
 # LIMO Overview
 ---
-{% include image-gallery.html images="t1_comparison.png" height="400" %}
+{% include image-gallery.html images="limo_robot.png" height="400" %}
 <br>
 
 LIMO is an advanced multi-modal mobile robot platform developed by AgileX Robotics. It is designed for robotics education, research, and autonomous navigation projects.
@@ -28,6 +28,7 @@ The robot features:
 - Support for autonomous navigation with ROS 1 and ROS 2.
 - Compact design suitable for indoor environments and testing arenas.
 <br>
+
 ---
 # Arena Design Overview
 ---
