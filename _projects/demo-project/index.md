@@ -1,7 +1,9 @@
 ---
 layout: post
 title: System Engineering Project 1
-description: Autonomous Navigation with LIMO Robot. Developed real-time SLAM maps with RTAB-Map, implemented waypoint-based navigation, and designed a custom testing arena for evaluating path planning and obstacle avoidance. For more information regarding the codes and program used please visit: [Team 7 SEP](https://github.com/pokohroh/ros-portfolio) 
+description: Autonomous Navigation with LIMO Robot. Developed real-time SLAM maps with RTAB-Map, implemented waypoint-based navigation, and designed a custom testing arena for evaluating path planning and obstacle avoidance.<br>
+For source code and program details, visit [Team 7 SEP GitHub Repo](https://github.com/pokohroh/ros-portfolio).
+
 skills: 
   - ROS(Melodic)
   - Python
